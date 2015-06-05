@@ -1,0 +1,46 @@
+The Data Scientist's Toolbox - Week 3
+-------------------------------------
+
+Types of questions
+	Descriptive
+		Describe set of data
+		first kind performed 
+		Commonly census
+		census.gov
+	Exploratory
+		Find relationships / new connections 
+		Useful for defining future studies
+		Should Not used for generalizing predicting
+		Correlation does not imply causation
+	Inferential
+		Use small data samples to say something about bigger 
+		The goal of statistics models
+		Estimate quantity 
+		Air Pollution Control on Life Expectancy (545 counties)
+	Predictive
+		Use object data on some to predict values for another object
+		If X predicts Y it does not mean that X causes Y
+		Target predicts pregnancy by purchases
+	Causal
+		What happens to one variable when you change another
+		Randomized studies to identify causation
+		Averages, gold standard
+	Mechanistic
+		Understand the exact changes in vars that lead to changes in other vars for individual objects
+		incredibly hard to infer except in simple situations
+		Physical/Eng
+		Measurment error
+
+	Data are values of qualitative or quantitative variables belonging to a set of items
+	Variables - A measurement or a characteristic of an item
+	Qualitative: country, sex, treatment
+	Quantitative: height, weight, blood pressure
+
+	data.gov
+
+	Data is the second most important thing
+	The most important thing is the question
+	Data will often limit or enable the questions
+	Having data cant save you if you dont have a question
+
+	Big or small you need the right data
