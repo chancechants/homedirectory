@@ -1,0 +1,10 @@
+CRAN is main loc, bioconductor for bio
+a <- available.packages()
+head(rownames(a), 3) ## show names of first 3
+5200 pkgs
+install.packages("slidify")
+source("http://bioconductor.org/biocLite.R")
+biocLite()
+
+library(ggplot2) // loads pkg
+

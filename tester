@@ -1,0 +1,8 @@
+total 24K
+drwxr-xr-x 3 root root 4.0K Jun  4 15:19 .
+drwx------ 4 root root 4.0K Jun  4 13:38 ..
+drwxr-xr-x 8 root root 4.0K Jun  4 13:39 .git
+-rw-r--r-- 1 root root   16 Jun  4 13:29 README.md
+-rw-r--r-- 1 root root   82 Jun  4 13:22 github.txt
+-rw-r--r-- 1 root root  199 Jun  4 13:37 markdown.md
+-rw-r--r-- 1 root root    0 Jun  4 15:19 tester
